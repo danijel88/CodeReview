@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="AnimalManagement\Builders\RacionBuilders\" />
     <Folder Include="AnimalManagement\Factories\" />
-    <Folder Include="AnimalManagement\Builders\" />
+    <Folder Include="AnimalManagement\Proxies\" />
+    <Folder Include="AnimalManagement\Rules\" />
   </ItemGroup>
 
   <ItemGroup>
